@@ -12,3 +12,4 @@ Manual Upload
 Template Creation
 
 Template Management
+Sever fixes added
